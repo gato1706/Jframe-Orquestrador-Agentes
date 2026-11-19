@@ -1,0 +1,9 @@
+ant -f C:\\Users\\Aluno\\Desktop\\Projeto_thiago_agente -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\Aluno\Desktop\Projeto_thiago_agente\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\Aluno\Desktop\Projeto_thiago_agente\build\built-jar.properties
+Compiling 2 source files to C:\Users\Aluno\Desktop\Projeto_thiago_agente\build\classes
+compile:
+run:
+CONSTRUÍDO COM SUCESSO (tempo total: 3 segundos)
